@@ -1,0 +1,27 @@
+{
+  "name": "job_finder",
+  "version": "1.0.0",
+  "description": "Este sistema é um portal para programadores encontrarem vagas para trabalho",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dev",
+    "jobs",
+    "dev",
+    "oportunity"
+  ],
+  "author": "Roger",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
