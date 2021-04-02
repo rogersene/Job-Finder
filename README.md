@@ -29,7 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Sqlite
 - Node.Js
 - Express
-- 
 
 ## 💻 Projeto
 
