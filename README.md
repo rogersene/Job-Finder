@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="job.finder" src="https://github.com/rogersene/Job-Finder/blob/main/public/img/giphy.gif" width="75%">
+  <img alt="job.finder" src="https://github.com/rogersene/Job-Finder/blob/main/public/img/giphy.gif" >
 </p>
 
 
