@@ -32,11 +32,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- O Job Finder é uma aplicaçãoque tem o intuito de empresas divulgarem vagas para DEVS e também para DEVS buscar vagas disponíveis. 
+- O Job Finder é uma aplicaçãoque tem o intuito de empresas divulgarem vagas para DEVS e também para DEVS buscar vagas disponíveis.  :computer:
 
-- Os dados do formulário de cadastro de vagas são armazenados em um banco de dados e é possível a consulta destes dados apenas com parte das palavras para isso foi utilizado a técnica do operador like. 
+- Os dados do formulário de cadastro de vagas são armazenados em um banco de dados e é possível a consulta destes dados apenas com parte das palavras para isso foi utilizado a técnica do operador like. :floppy_disk: :mag:
 
-- O layout é responsivo para monitores acima de (15 polegadas) e para mobile (280px até 480px).
+- O layout é responsivo para monitores acima de (15 polegadas) e para mobile (280px até 480px). :calling: :computer:
 
  
 
